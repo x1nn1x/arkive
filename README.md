@@ -1,4 +1,4 @@
-# Arkive V01 - 
+# Arkive v01 - 
 Build your own Ark Dev Kit
 
 A full Ark Dev Kit consists of a [screen](https://mou.sr/3QI0UAi), [battery](https://mou.sr/3QJygi1), [micro-sd card](https://mou.sr/3WlwoNI), [compute module](https://www.raspberrypi.com/products/compute-module-3-plus/), a case, and the Ark PCB both of which are available to be printed using this Arkive.
