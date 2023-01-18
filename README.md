@@ -9,9 +9,9 @@ Upload one of these Gerber .zips to a PCB Manufacturer for them to print and del
 
 Notes:
 
-Raspberry Pi Compute Module 3L+ [pending transition to CM4 and RISC-V]: https://www.raspberrypi.com/products/compute-module-3-plus/
+Raspberry Pi Compute Module 3L+ (pending transition to CM4 and RISC-V): https://www.raspberrypi.com/products/compute-module-3-plus/
 
-Newhaven Display 4.3" Capacitive Touch [pending transition to OLED and e-ink options]: [Mouser #: 763-4.3480272EFASXVC](https://mou.sr/3QI0UAi)
+Newhaven Display 4.3" Capacitive Touch (pending transition to OLED and e-ink options]): [Mouser #: 763-4.3480272EFASXVC](https://mou.sr/3QI0UAi)
 
 2500mAh LiPo battery: [Mouser #: 485-328](https://mou.sr/3QJygi1)
 
