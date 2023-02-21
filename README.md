@@ -9,6 +9,18 @@ Upload one of these Gerber .zips to a PCB Manufacturer for them to print and del
 
 Notes:
 
+Enabling touch screen
+
+    Add Distro/pullup.dtbo to /boot/overlays
+    Add Distro/touchscreen.dtbo to /boot/overlays
+    Replace /home/pi/.bashrc with the Distro/.bashrc provided
+    Make sure you are using the provided Distro/config.txt in /boot/
+
+Enabling buttons
+
+    Add Distro/buttons.dtbo to /boot/overlays
+    Make sure you are using the provided Distro/config.txt in /boot/
+
 Raspberry Pi Compute Module 3L+ (pending transition to CM4 and RISC-V): https://www.raspberrypi.com/products/compute-module-3-plus/
 
 Newhaven Display 4.3" Capacitive Touch (pending transition to OLED and e-ink options]): [Mouser #: 763-4.3480272EFASXVC](https://mou.sr/3QI0UAi)
